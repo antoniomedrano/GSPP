@@ -1,5 +1,5 @@
 # GSPP
-A Processing implementation of the Gateway Shortest Path Problem (GSPP) on raster data. Processing is Java-based with additional graphical functions and an IDE for simple code development suitable for graphics and animations.
+A Processing implementation of the Gateway Shortest Path Problem (GSPP) on raster data. Processing is a Java-based language with additional graphical functions and an IDE for simple code development suitable for graphics and animations.
 
 **Requirements**  
 Requires [Processing](https://processing.org/) to be installed (last tested with v3.5.3)  
