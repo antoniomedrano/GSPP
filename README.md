@@ -1,5 +1,5 @@
 # GSPP
-A Processing implementation of the Gateway Shortest Path Problem (GSPP) on raster data. Processing is a Java-based language with additional graphical functions and an IDE for simple code development suitable for graphics and animations. This also uses a recursive algorithm to add Strahler stream ordering hierarchy to the shortest path trees to see if this approach would be a good way to automate the selection of "good" gateway points that results in paths that are spatially diverse from the shortest path yet minimally longer.
+A Processing implementation of the Gateway Shortest Path Problem (GSPP) on raster data. Processing is a Java-based language with additional graphical functions and an IDE for simple code development suitable for graphics and animations. This also uses the *Gleyzer et al.* (2004) recursive algorithm to add Strahler stream ordering hierarchy to the shortest path trees to see if this approach would be a good way to automate the selection of "good" gateway points that result in paths that are spatially diverse from the shortest path yet minimally longer.
 
 **Requirements**  
 Requires [Processing](https://processing.org/) to be installed (last tested with v3.5.3)  
